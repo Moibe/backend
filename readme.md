@@ -1,9 +1,11 @@
 Prueba Backend 
 
 Para instalar lo necesario
+
 dotnet restore
 
 Para correrlo
+
 dotnet run 
 
 
