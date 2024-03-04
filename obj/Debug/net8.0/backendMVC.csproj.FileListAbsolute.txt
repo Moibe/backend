@@ -31,3 +31,4 @@ D:\Dropbox\DevOps\Devs\Work\MOK\backendMVC\obj\Debug\net8.0\backendMVC.pdb
 D:\Dropbox\DevOps\Devs\Work\MOK\backendMVC\obj\Debug\net8.0\backendMVC.genruntimeconfig.cache
 D:\Dropbox\DevOps\Devs\Work\MOK\backendMVC\obj\Debug\net8.0\ref\backendMVC.dll
 D:\Dropbox\DevOps\Devs\Work\MOK\backendMVC\bin\Debug\net8.0\books.json
+D:\Dropbox\DevOps\Devs\Work\MOK\backendMVC\obj\Debug\net8.0\backendMVC.sourcelink.json
