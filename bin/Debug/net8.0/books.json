@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "El Principito",
+      "author": "Antoine de Saint-Exupéry",
+      "genre": "Fantasía",
+      "publishDate": "1943-04-06"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Distopía",
+      "publishDate": "1949-06-08"
+    },
+    {
+      "id": 3,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "genre": "Realismo mágico",
+      "publishDate": "1967-05-30"
+    },
+    {
+      "id": 4,
+      "title": "El señor de los anillos: La comunidad del anillo",
+      "author": "J. R. R. Tolkien",
+      "genre": "Fantasía épica",
+      "publishDate": "1954-07-29"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J. K. Rowling",
+      "genre": "Fantasía",
+      "publishDate": "1997-06-26"
+    },
+    {
+      "id": 6,
+      "title": "El juego de Ender",
+      "author": "Orson Scott Card",
+      "genre": "Ciencia ficción",
+      "publishDate": "1985-01-01"
+    },
+    {
+      "id": 7,
+      "title": "Matar un ruiseñor",
+      "author": "Harper Lee",
+      "genre": "Novela sureña",
+      "publishDate": "1960-07-11"
+    },
+    {
+      "id": 8,
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishDate": "1813-01-28"
+    },
+    {
+      "id": 9,
+      "title": "El retrato de Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Ficción gótica",
+      "publishDate": "1890-06-20"
+    },
+    {
+      "id": 10,
+      "title": "20.000 leguas de viaje submarino",
+      "author": "Julio Verne",
+      "genre": "Ciencia ficción",
+      "publishDate": "1870-10-24"
+    }
+  ]
+  
